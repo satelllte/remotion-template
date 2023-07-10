@@ -2,6 +2,8 @@
 
 A template for crafting programmatic videos, tailored to personal preferences.
 
+<img src="./docs/hello.gif">
+
 ## What's included
 
 - [Remotion 4](https://github.com/remotion-dev/remotion)
