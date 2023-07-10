@@ -21,7 +21,7 @@
   "devDependencies": {
     "@remotion/eslint-config": "4.0.4",
     "@remotion/eslint-plugin": "4.0.4",
-    "@remotion/tailwind": "4.0.4",
+    "@remotion/tailwind": "4.0.5",
     "@types/react": "18.2.14",
     "@types/web": "0.0.103",
     "eslint": "8.44.0",
