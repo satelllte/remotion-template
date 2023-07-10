@@ -1,6 +1,6 @@
 {
   "name": "remotion-template",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scripts": {
     "dev": "remotion preview",
     "render:mp4": "remotion render ${npm_config_video} out/${npm_config_video}.mp4",
