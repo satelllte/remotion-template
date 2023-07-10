@@ -1,0 +1,12 @@
+# Node.js
+/node_modules
+
+# Renders
+/out
+
+# Editors
+.vscode
+.idea
+
+# OS-specific
+.DS_Store
