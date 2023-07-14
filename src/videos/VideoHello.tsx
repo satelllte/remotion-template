@@ -3,15 +3,15 @@ import {loadFont} from '@remotion/google-fonts/Orbitron';
 
 const {fontFamily} = loadFont();
 
-export const VideoHello = () => {
+export function VideoHello() {
 	return (
 		<AbsoluteFill style={{fontFamily}} className='flex items-center justify-center bg-stone-950'>
 			<Text/>
 		</AbsoluteFill>
 	);
-};
+}
 
-const Text = () => {
+function Text() {
 	const frame = useCurrentFrame();
 	const {fps, durationInFrames} = useVideoConfig();
 	const durationFade = fps * 1.5;
@@ -23,4 +23,4 @@ const Text = () => {
 			Hello!
 		</div>
 	);
-};
+}

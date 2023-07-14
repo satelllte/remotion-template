@@ -2,7 +2,7 @@ import './style.css';
 import {Composition} from 'remotion';
 import {VideoHello} from './videos';
 
-export const Root = () => {
+export function Root() {
 	const fps = 30;
 	const durationInSeconds = 5;
 	return (
@@ -15,4 +15,4 @@ export const Root = () => {
 			durationInFrames={durationInSeconds * fps}
 		/>
 	);
-};
+}
