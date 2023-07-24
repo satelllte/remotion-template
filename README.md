@@ -10,6 +10,7 @@ A template for crafting programmatic videos, tailored to personal preferences.
 - [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [ESLint](https://eslint.org/) configuration with lots of good rules based on [XO](https://github.com/xojs/xo)
+- [Prettier](https://prettier.io/)
 - [GitHub Actions](https://github.com/features/actions) for testing and rendering videos
 
 ## Where it's used
