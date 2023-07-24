@@ -12,7 +12,6 @@ A template for crafting programmatic videos, tailored to personal preferences.
 - [ESLint](https://eslint.org/) configuration with lots of good rules based on [XO](https://github.com/xojs/xo)
 - [GitHub Actions](https://github.com/features/actions) for testing and rendering videos
 
-
 ## Where it's used
 
 🔷 [Remotion Audio Visualizer](https://github.com/satelllte/remotion-audio-visualizer) - programmatic minimalistic audio visualizations.
