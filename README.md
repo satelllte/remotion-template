@@ -34,7 +34,7 @@ nvm use
 Install dependencies:
 
 ```sh
-npm install
+npm ci
 ```
 
 _(Optional, but recommended)_ Upgrade dependencies to the latest versions:
