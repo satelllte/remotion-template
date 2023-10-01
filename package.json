@@ -11,7 +11,7 @@
     "upgrade": "npm i $(npm outdated | cut -d' ' -f 1 | sed '1d' | xargs -I '$' echo '$@latest' | xargs echo) --save-exact"
   },
   "dependencies": {
-    "@remotion/cli": "4.0.17",
+    "@remotion/cli": "4.0.43",
     "@remotion/google-fonts": "4.0.17",
     "clsx": "2.0.0",
     "react": "18.2.0",
