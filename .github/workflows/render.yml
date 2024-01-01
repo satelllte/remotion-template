@@ -32,7 +32,7 @@ jobs:
       - name: Render
         run: npm run render:${{ inputs.format }} --video=${{ inputs.name }}
       - name: Upload rendered video artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: out
           path: out
